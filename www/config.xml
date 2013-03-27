@@ -29,7 +29,7 @@
 
     <description>
         Prinks first app with phone gap gro apis.
-    </description    
+    </description>    
         
     <preference name="KeyboardDisplayRequiresUserAction" value="true" />
     <preference name="SuppressesIncrementalRendering" value="false" />
